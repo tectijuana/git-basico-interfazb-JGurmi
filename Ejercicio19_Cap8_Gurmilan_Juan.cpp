@@ -29,7 +29,7 @@ int main()
  double M=0;
  double N=0;
  double R=0;
- double G=6.67*pow(10,-11);
+ double G=6.67*pow(10,-11);//constante de la gravitacion.
  
  
 cout<<"Dame el valor de la masa M: ";
