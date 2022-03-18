@@ -14,7 +14,7 @@ la medida en radianes
 */
 
 //@Author   JGurmi
-//@Date     17 de marzo del 2022
+//@Date     14 de marzo del 2022
 
 int main()
 {
