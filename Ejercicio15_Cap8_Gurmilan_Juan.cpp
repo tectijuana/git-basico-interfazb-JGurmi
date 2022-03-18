@@ -17,8 +17,8 @@ imagen
 
 int main()
 {
-    float f=0;
-    float Do=0;
+    float f=0;//distancia focal
+    float Do=0;//distancia del objeto.
    
     cout<<"Dame el valor de la distancia focal: ";
     cin>>f;
@@ -26,7 +26,7 @@ int main()
      cout<<"Dame el valor de la distancia del objeto: ";
     cin>>Do;
     
-   float di= (Do*f)/(Do+f);
+   float di= (Do*f)/(Do+f);//formula para sacar la distancia de la imagen.
     
      cout<<"El valor de la distancia de la imagen es: "<<di;
     
